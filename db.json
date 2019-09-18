@@ -1,15 +1,9 @@
 {
 "posts": [
     {
-      fName: '',
-      LName: '',
-      MName: '',
-      email: '',
-      Time_stamp: '',
-      Country: '',
-      Mtype: '',
-      num: '',
-      enabled: ''
+      id: '',
+      title: '',
+      
   
     }
 ]
