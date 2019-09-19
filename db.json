@@ -2,7 +2,16 @@
   "posts": [
     {
       "id": [],
-      "title": ""
+      "title": "",
+      "fName": "",
+      "LName": "",
+      "MName": "",
+      "email": "",
+      "Time_stamp": [],
+      "Country": "",
+      "Mtype": "",
+      "num": [],
+      "enabled": ""
     }
    
   ]
